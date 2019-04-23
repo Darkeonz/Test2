@@ -1,0 +1,6 @@
+C:\Users\AUL\source\repos\TestAssignment2\TestAssignment2\bin\Debug\TestAssignment2.dll
+C:\Users\AUL\source\repos\TestAssignment2\TestAssignment2\bin\Debug\TestAssignment2.pdb
+C:\Users\AUL\source\repos\TestAssignment2\TestAssignment2\obj\Debug\TestAssignment2.csprojAssemblyReference.cache
+C:\Users\AUL\source\repos\TestAssignment2\TestAssignment2\obj\Debug\TestAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\AUL\source\repos\TestAssignment2\TestAssignment2\obj\Debug\TestAssignment2.dll
+C:\Users\AUL\source\repos\TestAssignment2\TestAssignment2\obj\Debug\TestAssignment2.pdb
